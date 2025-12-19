@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to suryaDemo accounts related local APIs"
+  message: "Welcome to suryaDemo accounts related local webhook APIs"
   contactDetails:
     name: "SuyaKanta-Developer"
     email:  "surya@test.com"
